@@ -442,4 +442,3 @@ Yêu cầu về bộ nhớ: ArrayList và SortedList có thể chiếm nhiều b
 
 Yêu cầu về tính linh hoạt: ArrayList và Dictionary cho phép bạn thêm, xóa hoặc sửa đổi các phần tử một cách linh hoạt. SortedList và Hashtable cũng có thể cho phép bạn thực hiện các thao tác tương tự, nhưng có thể tốn thời gian hơn do việc cần sắp xếp lại các phần tử sau mỗi lần thao
 # PRN221_Theory
-# PRN221_Theory
